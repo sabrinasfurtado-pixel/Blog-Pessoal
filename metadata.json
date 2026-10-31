@@ -1,0 +1,6 @@
+{
+  "name": "Blog Pessoal - Full Stack",
+  "description": "Aplicação Full Stack do Blog Pessoal com backend REST e o frontend React oficial (blog-pessoal-client) integrado sem alterações de estilo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
